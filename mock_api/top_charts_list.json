@@ -1,0 +1,261 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "chartId": "chart_1",
+      "chartName": "Top Productivity",
+      "bookList": [
+        {
+          "id": "book_1",
+          "title": "Eat That Frog!",
+          "author": "Brian Tracy",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739165-L.jpg",
+          "stat": {
+            "keyPoints": 45,
+            "minutes": 32,
+            "insights": 14
+          }
+        },
+        {
+          "id": "book_2",
+          "title": "Atomic Habits",
+          "author": "James Clear",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739170-L.jpg",
+          "stat": {
+            "keyPoints": 61,
+            "minutes": 38,
+            "insights": 85
+          }
+        },
+        {
+          "id": "book_7",
+          "title": "Deep Work",
+          "author": "Cal Newport",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739175-L.jpg",
+          "stat": {
+            "keyPoints": 30,
+            "minutes": 48,
+            "insights": 94
+          }
+        },
+        {
+          "id": "book_4",
+          "title": "The 7 Habits of Highly Effective People",
+          "author": "Stephen R. Covey",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739180-L.jpg",
+          "stat": {
+            "keyPoints": 9286,
+            "minutes": 4404,
+            "insights": 9674
+          }
+        },
+        {
+          "id": "book_18",
+          "title": "Getting Things Done",
+          "author": "David Allen",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739185-L.jpg",
+          "stat": {
+            "keyPoints": 8767,
+            "minutes": 6307,
+            "insights": 9448
+          }
+        },
+        {
+          "id": "book_19",
+          "title": "Essentialism",
+          "author": "Greg McKeown",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739190-L.jpg",
+          "stat": {
+            "keyPoints": 2529,
+            "minutes": 3850,
+            "insights": 1919
+          }
+        }
+      ]
+    },
+    {
+      "chartId": "chart_2",
+      "chartName": "Mindfulness & Philosophy",
+      "bookList": [
+        {
+          "id": "book_5",
+          "title": "The Power of Now",
+          "author": "Eckhart Tolle",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739195-L.jpg",
+          "stat": {
+            "keyPoints": 7526,
+            "minutes": 3398,
+            "insights": 1725
+          }
+        },
+        {
+          "id": "book_3",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739200-L.jpg",
+          "stat": {
+            "keyPoints": 9337,
+            "minutes": 5819,
+            "insights": 2462
+          }
+        },
+        {
+          "id": "book_8",
+          "title": "Man's Search for Meaning",
+          "author": "Viktor E. Frankl",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739205-L.jpg",
+          "stat": {
+            "keyPoints": 8477,
+            "minutes": 9432,
+            "insights": 9984
+          }
+        },
+        {
+          "id": "book_6",
+          "title": "Think and Grow Rich",
+          "author": "Napoleon Hill",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739210-L.jpg",
+          "stat": {
+            "keyPoints": 8780,
+            "minutes": 7612,
+            "insights": 5567
+          }
+        },
+        {
+          "id": "book_16",
+          "title": "The Alchemist",
+          "author": "Paulo Coelho",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739215-L.jpg",
+          "stat": {
+            "keyPoints": 8487,
+            "minutes": 2442,
+            "insights": 3879
+          }
+        }
+      ]
+    },
+    {
+      "chartId": "chart_3",
+      "chartName": "Startup & Business",
+      "bookList": [
+        {
+          "id": "book_10",
+          "title": "The Lean Startup",
+          "author": "Eric Ries",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739220-L.jpg",
+          "stat": {
+            "keyPoints": 4069,
+            "minutes": 1135,
+            "insights": 9388
+          }
+        },
+        {
+          "id": "book_12",
+          "title": "Zero to One",
+          "author": "Peter Thiel",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739221-L.jpg",
+          "stat": {
+            "keyPoints": 8017,
+            "minutes": 8703,
+            "insights": 2080
+          }
+        },
+        {
+          "id": "book_13",
+          "title": "Start With Why",
+          "author": "Simon Sinek",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739222-L.jpg",
+          "stat": {
+            "keyPoints": 4873,
+            "minutes": 9498,
+            "insights": 9403
+          }
+        },
+        {
+          "id": "book_14",
+          "title": "Rework",
+          "author": "Jason Fried",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739223-L.jpg",
+          "stat": {
+            "keyPoints": 1467,
+            "minutes": 2916,
+            "insights": 4430
+          }
+        },
+        {
+          "id": "book_20",
+          "title": "The Hard Thing About Hard Things",
+          "author": "Ben Horowitz",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8739224-L.jpg",
+          "stat": {
+            "keyPoints": 1983,
+            "minutes": 8548,
+            "insights": 2853
+          }
+        }
+      ]
+    },
+    {
+      "chartId": "chart_4",
+      "chartName": "Editor's Choice",
+      "bookList": [
+        {
+          "id": "book_11",
+          "title": "Sapiens",
+          "author": "Yuval Noah Harari",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8571124-L.jpg",
+          "stat": {
+            "keyPoints": 12,
+            "minutes": 19,
+            "insights": 10
+          }
+        },
+        {
+          "id": "book_15",
+          "title": "Homo Deus",
+          "author": "Yuval Noah Harari",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8231990-L.jpg",
+          "stat": {
+            "keyPoints": 10,
+            "minutes": 17,
+            "insights": 8
+          }
+        },
+        {
+          "id": "book_17",
+          "title": "Thinking, Fast and Slow",
+          "author": "Daniel Kahneman",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+          "stat": {
+            "keyPoints": 14,
+            "minutes": 22,
+            "insights": 11
+          }
+        },
+        {
+          "id": "book_21",
+          "title": "The Psychology of Money",
+          "author": "Morgan Housel",
+          "coverUrl": "https://covers.openlibrary.org/b/id/10418037-L.jpg",
+          "stat": {
+            "keyPoints": 9,
+            "minutes": 16,
+            "insights": 8
+          }
+        },
+        {
+          "id": "book_22",
+          "title": "Rich Dad Poor Dad",
+          "author": "Robert T. Kiyosaki",
+          "coverUrl": "https://covers.openlibrary.org/b/id/8225261-L.jpg",
+          "stat": {
+            "keyPoints": 8,
+            "minutes": 14,
+            "insights": 7
+          }
+        }
+      ]
+    }
+  ]
+}
