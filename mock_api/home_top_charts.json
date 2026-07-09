@@ -4,7 +4,8 @@
   "data": [
     {
       "chartId": "chart_1",
-      "chartName": "Top Productivity",
+      "chartName": "Boost Productivity & Focus",
+      "chartDesc": "Mastering Focus, Maximizing Results",
       "bookList": [
         {
           "id": "book_1",
@@ -34,7 +35,8 @@
     },
     {
       "chartId": "chart_2",
-      "chartName": "Mindfulness Picks",
+      "chartName": "Achieve Career Success",
+      "chartDesc": "Unlocking Potential, Driving Success",
       "bookList": [
         {
           "id": "book_5",
@@ -64,7 +66,8 @@
     },
     {
       "chartId": "chart_3",
-      "chartName": "Startup & Business",
+      "chartName": "Sharpen Thinking & Logic",
+      "chartDesc": "Strengthening Minds, Inspiring Brilliance",
       "bookList": [
         {
           "id": "book_10",
@@ -89,36 +92,6 @@
           "title": "Rework",
           "author": "Jason Fried",
           "coverUrl": "https://covers.openlibrary.org/b/id/8739219-L.jpg"
-        }
-      ]
-    },
-    {
-      "chartId": "chart_4",
-      "chartName": "Editor's Choice",
-      "bookList": [
-        {
-          "id": "book_11",
-          "title": "Sapiens",
-          "author": "Yuval Noah Harari",
-          "coverUrl": "https://covers.openlibrary.org/b/id/8571124-L.jpg"
-        },
-        {
-          "id": "book_15",
-          "title": "Homo Deus",
-          "author": "Yuval Noah Harari",
-          "coverUrl": "https://covers.openlibrary.org/b/id/8231990-L.jpg"
-        },
-        {
-          "id": "book_16",
-          "title": "The Alchemist",
-          "author": "Paulo Coelho",
-          "coverUrl": "https://covers.openlibrary.org/b/id/8108696-L.jpg"
-        },
-        {
-          "id": "book_17",
-          "title": "Thinking, Fast and Slow",
-          "author": "Daniel Kahneman",
-          "coverUrl": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
         }
       ]
     }
